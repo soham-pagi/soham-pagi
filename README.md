@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/pagisohamz)
-
-
 [![@sohampagi's Holopin board](https://holopin.me/sohampagi)](https://holopin.io/@sohampagi)
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/pagisohamz)
 
 <!--
 **soham-pagi/soham-pagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
